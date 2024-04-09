@@ -1,0 +1,198 @@
+Country Name,Country Code,2020
+Africa Eastern and Southern,AFE,27.35
+Afghanistan,AFG,18.4
+Africa Western and Central,AFW,34.13
+Angola,AGO,36.0
+Albania,ALB,72.24
+Arab World,ARB,68.87
+United Arab Emirates,ARE,100.0
+Argentina,ARG,85.5
+Armenia,ARM,76.51
+Australia,AUS,89.6
+Austria,AUT,87.53
+Azerbaijan,AZE,84.6
+Burundi,BDI,9.4
+Belgium,BEL,91.53
+Benin,BEN,25.8
+Burkina Faso,BFA,22.0
+Bangladesh,BGD,24.8
+Bulgaria,BGR,70.16
+Bahrain,BHR,99.67
+"Bahamas, The",BHS,87.0
+Bosnia and Herzegovina,BIH,73.21
+Belarus,BLR,85.09
+Bolivia,BOL,59.94
+Brazil,BRA,81.34
+Brunei Darussalam,BRN,95.0
+Bhutan,BTN,53.5
+Botswana,BWA,64.0
+Central African Republic,CAF,10.4
+Canada,CAN,96.97
+Central Europe and the Baltics,CEB,81.77
+Switzerland,CHE,94.2
+Chile,CHL,88.3
+China,CHN,70.4
+Cameroon,CMR,37.8
+"Congo, Dem. Rep.",COD,13.6
+Colombia,COL,69.79
+Cabo Verde,CPV,64.5
+Costa Rica,CRI,80.53
+Cuba,CUB,74.0
+Cyprus,CYP,90.8
+Czechia,CZE,81.34
+Germany,DEU,89.81
+Djibouti,DJI,59.0
+Denmark,DNK,96.55
+Dominican Republic,DOM,76.9
+Algeria,DZA,62.9
+East Asia & Pacific (excluding high income),EAP,66.59
+Early-demographic dividend,EAR,48.3
+East Asia & Pacific,EAS,69.22
+Europe & Central Asia (excluding high income),ECA,80.19
+Europe & Central Asia,ECS,83.89
+Ecuador,ECU,64.6
+"Egypt, Arab Rep.",EGY,71.91
+Euro area,EMU,85.26
+Spain,ESP,93.21
+Estonia,EST,89.06
+Ethiopia,ETH,24.0
+European Union,EUU,84.74
+Fragile and conflict affected situations,FCS,28.41
+Finland,FIN,92.17
+France,FRA,84.8
+Gabon,GAB,62.0
+United Kingdom,GBR,94.82
+Georgia,GEO,72.53
+Ghana,GHA,58.0
+Guinea,GIN,26.0
+"Gambia, The",GMB,36.5
+Guinea-Bissau,GNB,22.9
+Greece,GRC,78.12
+Grenada,GRD,56.9
+Guatemala,GTM,49.97
+High income,HIC,89.55
+"Hong Kong SAR, China",HKG,92.41
+Honduras,HND,42.05
+Heavily indebted poor countries (HIPC),HPC,25.04
+Croatia,HRV,78.32
+Haiti,HTI,34.5
+Hungary,HUN,84.77
+IBRD only,IBD,62.71
+IDA & IBRD total,IBT,54.43
+IDA total,IDA,28.13
+IDA blend,IDB,32.87
+Indonesia,IDN,53.73
+IDA only,IDX,25.35
+India,IND,43.0
+Ireland,IRL,92.0
+"Iran, Islamic Rep.",IRN,84.11
+Iceland,ISL,99.0
+Israel,ISR,90.13
+Italy,ITA,70.48
+Japan,JPN,90.22
+Kazakhstan,KAZ,85.94
+Kenya,KEN,29.5
+Kiribati,KIR,38.0
+"Korea, Rep.",KOR,96.51
+Kuwait,KWT,99.11
+Latin America & Caribbean (excluding high income),LAC,73.2
+Lao PDR,LAO,33.8
+Lebanon,LBN,84.1
+Liberia,LBR,25.6
+St. Lucia,LCA,53.3
+Latin America & Caribbean,LCN,73.69
+Least developed countries: UN classification,LDC,24.09
+Low income,LIC,20.59
+Sri Lanka,LKA,35.0
+Lower middle income,LMC,45.1
+Low & middle income,LMY,54.09
+Lesotho,LSO,43.0
+Late-demographic dividend,LTE,73.86
+Lithuania,LTU,83.06
+Luxembourg,LUX,98.82
+Latvia,LVA,88.9
+"Macao SAR, China",MAC,88.1
+Morocco,MAR,84.12
+Maldives,MDV,62.93
+Middle East & North Africa,MEA,77.83
+Mexico,MEX,71.97
+Middle income,MIC,57.26
+North Macedonia,MKD,81.41
+Mali,MLI,27.4
+Malta,MLT,86.86
+Myanmar,MMR,35.1
+Middle East & North Africa (excluding high income),MNA,73.63
+Montenegro,MNE,77.61
+Mongolia,MNG,62.5
+Mozambique,MOZ,16.5
+Mauritania,MRT,40.8
+Mauritius,MUS,64.88
+Malaysia,MYS,89.56
+North America,NAC,91.52
+Namibia,NAM,41.0
+Nigeria,NGA,35.5
+Nicaragua,NIC,45.2
+Netherlands,NLD,91.33
+Norway,NOR,97.0
+Nepal,NPL,37.7
+New Zealand,NZL,91.5
+OECD members,OED,86.29
+Oman,OMN,95.23
+Other small states,OSS,62.07
+Pakistan,PAK,25.0
+Panama,PAN,64.25
+Peru,PER,65.25
+Philippines,PHL,49.8
+Poland,POL,83.18
+Pre-demographic dividend,PRE,26.05
+Portugal,PRT,78.26
+Paraguay,PRY,73.96
+West Bank and Gaza,PSE,74.6
+Post-demographic dividend,PST,88.72
+Qatar,QAT,99.65
+Romania,ROU,78.46
+Russian Federation,RUS,84.99
+Rwanda,RWA,26.5
+South Asia,SAS,38.56
+Saudi Arabia,SAU,97.86
+Sudan,SDN,28.4
+Senegal,SEN,42.6
+Singapore,SGP,92.0
+Sierra Leone,SLE,18.0
+El Salvador,SLV,54.6
+Serbia,SRB,78.37
+Sub-Saharan Africa (excluding high income),SSA,30.04
+South Sudan,SSD,6.5
+Sub-Saharan Africa,SSF,30.04
+Small states,SST,62.39
+Sao Tome and Principe,STP,33.0
+Suriname,SUR,70.06
+Slovak Republic,SVK,89.92
+Slovenia,SVN,86.6
+Sweden,SWE,94.54
+Seychelles,SYC,79.0
+Syrian Arab Republic,SYR,35.78
+Chad,TCD,10.4
+East Asia & Pacific (IDA & IBRD countries),TEA,66.59
+Europe & Central Asia (IDA & IBRD countries),TEC,80.36
+Togo,TGO,24.0
+Thailand,THA,77.84
+Latin America & the Caribbean (IDA & IBRD countries),TLA,73.67
+Timor-Leste,TLS,29.1
+Middle East & North Africa (IDA & IBRD countries),TMN,73.62
+South Asia (IDA & IBRD),TSA,38.56
+Sub-Saharan Africa (IDA & IBRD countries),TSS,30.04
+Tunisia,TUN,71.9
+Turkiye,TUR,77.67
+Tanzania,TZA,22.0
+Uganda,UGA,19.9
+Ukraine,UKR,75.04
+Upper middle income,UMC,73.33
+Uruguay,URY,86.1
+United States,USA,90.9
+Uzbekistan,UZB,71.1
+Vietnam,VNM,70.3
+World,WLD,59.94
+South Africa,ZAF,70.0
+Zambia,ZMB,19.8
+Zimbabwe,ZWE,29.3
